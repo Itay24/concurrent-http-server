@@ -1,0 +1,12 @@
+# Compiled server
+/server
+
+# C build files
+*.o
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
